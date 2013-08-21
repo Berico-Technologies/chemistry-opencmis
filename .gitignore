@@ -1,0 +1,6 @@
+# Intellij Files     #
+#####################
+*.iml
+.idea
+
+**/target
